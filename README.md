@@ -30,6 +30,8 @@ PlanItPro is a comprehensive financial and task management tool, designed to hel
   Your browser does not support the video tag.
 </video>
 
+[Download/View Demo Video](demo_video/planitpro_demo.mp4)
+
 ## How to Run the Application:
 
 1. Clone the repository from GitHub: `https://github.com/naumanijazch/PlanItPro`.
